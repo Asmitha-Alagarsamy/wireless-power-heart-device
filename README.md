@@ -19,7 +19,7 @@ Arduino source code for:
 - IoT integration for ThingSpeak
 - Battery charging automation and cutoff
 
-See [`code/main_wpt.ino`](code/WPT Project code.pdf)
+See [`code/WPT%20Project%20code.pdf'](code/WPT%20Project%20code.pdf)
 
 ## System Overview
 
