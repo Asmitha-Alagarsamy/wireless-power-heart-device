@@ -3,7 +3,7 @@
 This repository contains the source code and project report for a WPT-based medical device aimed at supporting heart assist systems. This project focuses on improving battery rechargeability and reducing surgical risks in implantable devices using inductive wireless power transmission.
 
 ## Report
-- [`WPT Project Report`](report/WPT%20Project%20report.pdf): Detailed project documentation, including system design, block diagrams, component explanations, and results.
+- [`WPT Project Report`](docs/WPT%20Project%20report.pdf): Detailed project documentation, including system design, block diagrams, component explanations, and results.
 
 ## Features
 - **Inductive Coupling** for wireless energy transfer
@@ -19,7 +19,7 @@ Arduino source code for:
 - IoT integration for ThingSpeak
 - Battery charging automation and cutoff
 
-See [`code/main_wpt.ino`](code/main_wpt.ino)
+See [`code/main_wpt.ino`](code/WPT Project code.pdf)
 
 ## System Overview
 
